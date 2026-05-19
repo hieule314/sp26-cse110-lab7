@@ -1,5 +1,8 @@
 sp26-cse110-lab7
 
+Owner: Hieu Le
+Partners: None
+
 1. I would choose 'Within a GitHub Action that runs whenever code is pushed" because it picks up on regressions early on. It also allows the whole team immediate feedback, and keeps main stable without depending on everyone remembering to run tests locally.
 
 2. No because unit tests are better for returning the correct output than E2E. Since E2E tests are for full user workflows across the UI, browser, and app behavior.
